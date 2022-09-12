@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(#E8D9A9, #9A5044) fixed;
+    font-family: Calibri, serif;
+}
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+th {
+    background-color: #ffda44;
+}
